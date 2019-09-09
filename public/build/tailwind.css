@@ -3621,6 +3621,11 @@ video {
   font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-gilroy {
+  font-family: Gilroy;
+  src: url(/fonts/Gilroy-Light.otf) format("otf");
+}
+
 .font-hairline {
   font-weight: 100;
 }
